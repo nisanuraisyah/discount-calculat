@@ -31,34 +31,16 @@ Total price = discounted_price × quantity
 
 
 ### Calculation Result
-![Uploading image.png…]()
+<img width="385" height="325" alt="image" src="https://github.com/user-attachments/assets/23f0a283-0382-47fd-a7c3-8d3c95e604c4" />
 
 
 ---
 
-## 🚀 How to Run the Program
-
-### 1️⃣ Make sure Python is installed
-Check your Python version:
-```bash
-python --version
-2️⃣ Clone the repository
-git clone https://github.com/nisanuraisyah/discount-calculator.git
-
-3️⃣ Navigate to the project directory
-cd discount-calculator
-
-4️⃣ Run the program
-python discount_calculator.py
-
-📂 Project Structure
-discount-calculator/
-│
-├── discount_calculator.py   # Main application
-├── README.md                # Project documentation
-├── screenshots/             # Application screenshots
-│   ├── main_interface.png
-│   └── calculation_result.png
+## How to Use
+- Enter the original price in the Original Price input field
+- Enter the discount percentage in the Discount (%) field
+- Click the Calculate button
+- The final price will be displayed in Indonesian Rupiah (Rp) format
 
 ## 👩‍💻 Author
 
