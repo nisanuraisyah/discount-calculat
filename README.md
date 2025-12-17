@@ -25,15 +25,14 @@ Discounted price = original_price − (original_price × discount / 100)
 Total price = discounted_price × quantity
 ---
 
-## 🖼️ Screenshots
-
-> 📌 Add your screenshots to the `screenshots` folder and make sure the file names match the examples below.
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+<img width="346" height="313" alt="image" src="https://github.com/user-attachments/assets/49f4ded6-cb4c-4d50-95bc-217a429e5b61" />
+
 
 ### Calculation Result
-![Calculation Result](screenshots/calculation_result.png)
+![Uploading image.png…]()
+
 
 ---
 
