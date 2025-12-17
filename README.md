@@ -1,93 +1,65 @@
-# 💰 Discount Calculator
-<img width="374" height="318" alt="image" src="https://github.com/user-attachments/assets/d17812e1-6823-4a6d-8cb1-f09ebee3be88" />
+#  Discount Calculator
 
-## 📌 Deskripsi
+##  Description
+**Discount Calculator** is a simple desktop application built using **Python Tkinter**. This application calculates the **final price after a discount** based on:
+- Original price
+- Discount rate (percentage)
+- Quantity of items
 
-**Discount Calculator** adalah aplikasi desktop sederhana berbasis **Python Tkinter** yang digunakan untuk menghitung **harga akhir setelah diskon** berdasarkan:
-
-* Harga awal (price)
-* Persentase diskon (discount rate)
-* Jumlah barang (quantity)
-
-Aplikasi ini dirancang dengan tampilan **lucu, berwarna, dan ramah pengguna**, sehingga cocok untuk:
-
-* Anak-anak
-* Pemula Python
-* Media pembelajaran GUI
+The application features a **clean, colorful, and user-friendly interface**, making it suitable for beginners, students, and educational purposes.
 
 ---
 
-## 🎯 Fitur Utama
-
-* Input harga awal
-* Input persentase diskon (0–100%)
-* Input jumlah barang
-* Perhitungan otomatis harga akhir
-* Validasi input (tidak boleh negatif)
-* Tampilan GUI menarik dengan warna pastel
-
----
-
-## 🧮 Rumus Perhitungan
-
-```
-Harga setelah diskon = harga_awal − (harga_awal × diskon / 100)
-Total harga = harga_setelah_diskon × quantity
-```
+## Key Features
+- Input original price  
+- Input discount rate (0–100%)  
+- Input quantity  
+- Automatic final price calculation  
+- Input validation (no negative values allowed)  
+- Attractive GUI with a pastel color theme  
 
 ---
 
-## 🖥️ Tampilan Aplikasi
+## Calculation Formula
+Discounted price = original_price − (original_price × discount / 100)
+Total price = discounted_price × quantity
+---
 
-Aplikasi menggunakan **Tkinter GUI** dengan:
+## 🖼️ Screenshots
 
-* Judul interaktif
-* Tombol berwarna
-* Label hasil yang menonjol
-* Simbol ⭐ dan 💰 untuk tampilan lebih menarik
+> 📌 Add your screenshots to the `screenshots` folder and make sure the file names match the examples below.
+
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+
+### Calculation Result
+![Calculation Result](screenshots/calculation_result.png)
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## 🚀 How to Run the Program
 
-### 1️⃣ Pastikan Python sudah terinstall
-
-Cek dengan perintah:
-
+### 1️⃣ Make sure Python is installed
+Check your Python version:
 ```bash
 python --version
-```
+2️⃣ Clone the repository
+git clone https://github.com/nisanuraisyah/discount-calculator.git
 
-### 2️⃣ Clone repository
-
-```bash
-git clone https://github.com/USERNAME_KAMU/discount-calculator.git
-```
-
-### 3️⃣ Masuk ke folder project
-
-```bash
+3️⃣ Navigate to the project directory
 cd discount-calculator
-```
 
-### 4️⃣ Jalankan program
-
-```bash
+4️⃣ Run the program
 python discount_calculator.py
-```
 
----
-
-## 📂 Struktur File
-
-```
+📂 Project Structure
 discount-calculator/
 │
-├── discount_calculator.py   # Program utama
-├── README.md                # Dokumentasi
-```
-
----
+├── discount_calculator.py   # Main application
+├── README.md                # Project documentation
+├── screenshots/             # Application screenshots
+│   ├── main_interface.png
+│   └── calculation_result.png
 
 ## 👩‍💻 Author
 
