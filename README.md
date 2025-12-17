@@ -1,4 +1,4 @@
-# 💰 Discount Calculator (Python Tkinter)
+# 💰 Discount Calculator
 <img width="374" height="318" alt="image" src="https://github.com/user-attachments/assets/d17812e1-6823-4a6d-8cb1-f09ebee3be88" />
 
 ## 📌 Deskripsi
@@ -89,21 +89,8 @@ discount-calculator/
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
-
-* Python 3
-* Tkinter (GUI Library)
-* Git & GitHub
-
----
-
 ## 👩‍💻 Author
 
 Dibuat oleh **Nisa**
-Mahasiswa S2 Statistika & Sains Data – IPB University
 
 ---
-
-✨ Project ini dibuat untuk tujuan pembelajaran dan pengembangan skill Python GUI.
-
-Feel free to fork & improve this project 😊
